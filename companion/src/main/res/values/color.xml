@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#536DFE</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#111111</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#ff7c00</color>
+    <color name="fab_color">#448AFF</color>
+    <color name="darker_orange">#d66a03</color>
+    <color name="tab_colorizer">#EEEEEE</color>
+    <!-- <color name="toolbar">#444444</color> -->
+    <color name="toolbar">#563A59</color>
+    <!-- <color name="statusbar">#333333</color> -->
+    <color name="statusbar">#422E44</color>
+    <color name="accent">#F7B900</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="google_plus">#E46F61</color>
+
+</resources>

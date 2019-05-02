@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/register_toolbar"
+            layout="@layout/register_toolbar" />
+
+        <TextView
+            android:id="@+id/tvGantavyaAbout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/comp_about"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/bWatchVideo"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/pressed_next"
+            android:text="Know us better on Youtube"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/bRateGoogle"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/pressed_next"
+            android:text="Rate us on Google PLay"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/bLikeFacebook"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/pressed_next"
+            android:text="Like us on Facebook"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/bVisitWebsite"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/pressed_next"
+            android:text="Visit our Website"
+            android:textColor="@color/white" />
+
+
+
+            <TextView
+                android:id="@+id/tvSuperheroes"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center|bottom"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="4dp"
+                android:text="Developed by superheroes for superheroes like you."
+                android:textSize="12sp" />
+
+
+    </LinearLayout>
+</ScrollView>

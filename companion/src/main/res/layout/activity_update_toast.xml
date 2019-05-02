@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llCustomToast"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/toolbar"
+    android:weightSum="1" >
+
+    <TextView
+        android:id="@+id/tvToastText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="0.7"
+        android:text="Update a Landslide here?"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/bToastNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="0.15"
+        android:background="@android:color/transparent"
+        android:text="NO"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/bToastYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="0.15"
+        android:background="@android:color/transparent"
+        android:text="YES"
+        android:textColor="@color/accent" />
+
+</LinearLayout>

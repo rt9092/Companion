@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvRoadblockCause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Landslide"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvRoadblockAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="at    Legship-Rabongla Road, Sikkim"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@+id/llRatings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingEnd="8dp"
+            android:paddingRight="8dp"
+            android:src="@drawable/ic_small_thumb" />
+
+        <TextView
+            android:id="@+id/tvRoadblockActiveStatus"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="2"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</LinearLayout>
+

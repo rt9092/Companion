@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/register_toolbar"
+        layout="@layout/register_toolbar"/>
+
+    <TextView
+        android:id="@+id/tvRupees"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="You have 50 rupees for Recharge"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="OPERATOR"
+        android:textSize="12sp"
+        android:textStyle="bold|italic" />
+
+    <Spinner
+        android:id="@+id/spinnerOperator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="CIRCLE"
+        android:textSize="12sp"
+        android:textStyle="bold|italic" />
+
+    <Spinner
+        android:id="@+id/spinnerCircle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="AMOUNT"
+        android:textSize="12sp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/etAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="@color/black"
+        android:inputType="number"/>
+    <Button
+        android:id="@+id/bRecharge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@drawable/pressed_next"
+        android:text="RECHARGE NOW"
+        android:textColor="@color/white"/>
+</LinearLayout>

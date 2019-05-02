@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:orientation="vertical">
+
+
+    <CheckBox
+        android:id="@+id/cbTourism"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="16dp"
+        android:onClick="onCheckboxClicked"
+        android:text="View Tourist Places"
+        android:textSize="16sp" />
+
+    <CheckBox
+        android:id="@+id/cbEvents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:onClick="onCheckboxClicked"
+        android:text="View Events"
+        android:textSize="16sp" />
+
+    <CheckBox
+        android:id="@+id/cbAmenities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:onClick="onCheckboxClicked"
+        android:text="View Amenities"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bFilterOk"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="Apply Filters"
+        android:textColor="@color/accent" />
+</LinearLayout>

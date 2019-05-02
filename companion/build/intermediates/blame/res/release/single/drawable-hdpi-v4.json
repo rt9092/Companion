@@ -1,0 +1,1010 @@
+[
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/powered_by_google_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_search_white_24dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_clear_white_24dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_button_rounded_pressed_left.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/bg_button_rounded_pressed_left.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_pharmacy.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_pharmacy.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/dasboard_bg_land.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/dasboard_bg_land.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/dashboard_backdrop.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/dashboard_backdrop.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/edit_bg.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/edit_bg.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_cling_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-hdpi-v4/btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_1.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_my_location_grey600_24dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_my_location_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_file_upload_white_36dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_file_upload_white_36dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/companion_logo_purple.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/companion_logo_purple.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_hospital.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_hospital.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_2_mono_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_options.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_options.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_bus_stop.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_bus_stop.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_auto_repair.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_auto_repair.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_pause.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_pause.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/places_ic_search.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/places_ic_search.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_about.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_about.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_landslide.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_landslide.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_restaurant_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_restaurant_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_search_black_24dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_1_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_play_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_pharmacy_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_pharmacy_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_0_mono_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_off_mono_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_pause_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/drawer_icon_new.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/drawer_icon_new.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_police_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_police_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_atm.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_atm.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_rewards.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_rewards.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_menu.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/pressed_facebook.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/pressed_facebook.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_toilet_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_toilet_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_rail_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_rail_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_dashboard.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_dashboard.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/male_icon.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/male_icon.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/hand.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-hdpi-v4/hand.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_settings.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/rewards_coins.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/rewards_coins.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/nav_header_bg.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/nav_header_bg.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_rail.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_rail.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_1_mono_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/facebook_button_pressed.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/facebook_button_pressed.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_add_white_24dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/drawer_list_selector.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/drawer_list_selector.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/list_selector_left.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/list_selector_left.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_hotel.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_hotel.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_name.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_name.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_keyboard_backspace_white_36dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_keyboard_backspace_white_36dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_bank.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_bank.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/drawer_icon.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/drawer_icon.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/list_selector_right.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/list_selector_right.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_button_rounded_right.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/bg_button_rounded_right.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_landslide.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_landslide.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/no_image.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/no_image.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/powered_by_google_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_tourism_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_tourism_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_restaurant.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_restaurant.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_airport_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_airport_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_feedback.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_feedback.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_event.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_event.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_on_road_amenities.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_on_road_amenities.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/pressed_next_purple.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/pressed_next_purple.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/edit_bg_selector.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/edit_bg_selector.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_2_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_auto_repair_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_auto_repair_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/pressed_google.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/pressed_google.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_clock.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_clock.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/get_alerts.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/get_alerts.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/companion_notification_logo.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/companion_notification_logo.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_contact_number.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_contact_number.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/places_ic_clear.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/drawable-hdpi/places_ic_clear.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_contact.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_contact.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/next_bg_pressed.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/next_bg_pressed.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_bank_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_bank_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_play.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_play.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_events.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_events.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/with_love.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/with_love.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/next_bg.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/next_bg.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_petrol.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_petrol.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_disabled_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_on_road_alerts.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_on_road_alerts.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_cling_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-hdpi-v4/btn_cling_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/google_plus_button_pressed.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/google_plus_button_pressed.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_on_mono_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_taxi_stand_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_taxi_stand_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_replay_grey600_36dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_replay_grey600_36dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/get_amenities.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/get_amenities.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_other_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_other_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/driving_help.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/driving_help.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_tourism.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_tourism.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_contact_person.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_contact_person.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_0.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_alert_off.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_alert_off.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/go_tourism.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/go_tourism.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_button_rounded_pressed_right.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/bg_button_rounded_pressed_right.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_0_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_rating.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_rating.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_construction.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_construction.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/pressed_next.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/pressed_next.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/google_plus_button.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/google_plus_button.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/check_blocks.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/check_blocks.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_hotel_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_hotel_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/cling.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/res/drawable-hdpi-v4/cling.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_toilet.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_toilet.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_journey_start.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_journey_start.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_construction.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_construction.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_accident_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_accident_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_traffic.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_traffic.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_location.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_location.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_forum.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_forum.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_clear.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_clear.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_favorite_outline_grey600_36dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_favorite_outline_grey600_36dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/edit_bg_highlight.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/edit_bg_highlight.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_2.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_2.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_construction_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_construction_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_accident.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_accident.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/divider_or.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/divider_or.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_traffic.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_traffic.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/rounded_corners.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/rounded_corners.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_rewards_screen.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_rewards_screen.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_taxi_stand.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_taxi_stand.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_petrol_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_petrol_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_on_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_on_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_filter.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_events_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_events_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_for_reward_screen.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_for_reward_screen.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_directions_car.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_directions_car.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_profile.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_profile.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_nothing.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_nothing.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_airport.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_airport.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_media_route_disabled_mono_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/card_report_roadblock_image_new.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/card_report_roadblock_image_new.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_traffic_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_traffic_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pause_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_pause_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_my_location_white_36dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_my_location_white_36dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_play_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_play_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_alert_on.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_alert_on.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_cast_off_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_cast_off_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_user_blocks.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_user_blocks.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-hdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_cause_flag.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/bg_cause_flag.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_landslide_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_landslide_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_setting_light.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_setting_light.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/facebook_button.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/facebook_button.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_setting_dark.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable-hdpi/ic_setting_dark.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_tag.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/bg_tag.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_eye.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_eye.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_options.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_options.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_hospital_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_hospital_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_share_white_24dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_share_white_24dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_journey_end.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_journey_end.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_accident.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_accident.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_atm_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_atm_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_promote.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_promote.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_bus_station_big.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_bus_station_big.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_small_thumb.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_small_thumb.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_done_white_36dp.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_done_white_36dp.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/card_roadblock_live_image_new.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/card_roadblock_live_image_new.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/card_safe_route_image_new.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/card_safe_route_image_new.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-hdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_pointer_police.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_pointer_police.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/bg_button_rounded_left.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/bg_button_rounded_left.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/cast_ic_notification_on.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable-hdpi/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_information.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/drawable-hdpi/ic_information.png"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    }
+]

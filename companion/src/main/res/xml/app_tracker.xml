@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- End current session if app sleeps for a period of time -->
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!--  The property id associated with this analytics tracker -->
+    <string name="ga_trackingId">UA-76380371-1</string>
+
+    <string name="ga_sampleFrequency">100.0</string>
+
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!--
+      See Project Structure -> Analytics -> Google Analytics -> Learn More
+      to learn more about configuring this file.
+    -->
+
+    <screenName name="in.wadersgroup.companion.AboutUsActivity">About Us</screenName>
+    <screenName name="in.wadersgroup.companion.AnonymousUpdatesActivity">Active Tracking</screenName>
+    <screenName name="in.wadersgroup.companion.CityBasedActivity">Explore Places</screenName>
+    <screenName name="in.wadersgroup.companion.ConfirmationActivity">Confirmation Mobile Number</screenName>
+    <screenName name="in.wadersgroup.companion.DashboardActivity">Dashboard</screenName>
+    <screenName name="in.wadersgroup.companion.DataUploadActivity">Update Roadblocks</screenName>
+    <screenName name="in.wadersgroup.companion.FilterDialogActivity">Go Live Filters</screenName>
+    <screenName name="in.wadersgroup.companion.JourneyActivity">Source/Destination</screenName>
+    <screenName name="in.wadersgroup.companion.LoginActivity">Login</screenName>
+    <screenName name="in.wadersgroup.companion.MapNotificationActivity">Roadblocks Confirmation</screenName>
+    <screenName name="in.wadersgroup.companion.OTPActivity">OTP Screen</screenName>
+    <screenName name="in.wadersgroup.companion.PlaceDetailsActivity">Amenities Details</screenName>
+    <screenName name="in.wadersgroup.companion.PlaceDetailsBigActivity">Tourist Place Details</screenName>
+    <screenName name="in.wadersgroup.companion.PlacesActivity">All Amenities</screenName>
+    <screenName name="in.wadersgroup.companion.ProfileActivity">User Profile</screenName>
+    <screenName name="in.wadersgroup.companion.PromotionActivity">Check Redeem Points</screenName>
+    <screenName name="in.wadersgroup.companion.RedeemActivity">Recharge</screenName>
+    <screenName name="in.wadersgroup.companion.ReferralCodeActivity">Referral Activity</screenName>
+    <screenName name="in.wadersgroup.companion.RegisterActivity">Registration</screenName>
+    <screenName name="in.wadersgroup.companion.ReportedBlocksActivity">Reported Blocks by Users</screenName>
+    <screenName name="in.wadersgroup.companion.RewardsActivity">Earn Rewards Ways</screenName>
+    <screenName name="in.wadersgroup.companion.RoadblockCauseDialogActivity">Roadblock Causes</screenName>
+    <screenName name="in.wadersgroup.companion.RoadblockRemovalActivity">Remove Roadblock</screenName>
+    <screenName name="in.wadersgroup.companion.SafeRoadActivity">Safe Route</screenName>
+    <screenName name="in.wadersgroup.companion.SearchTagsActivity">Amenities Tags</screenName>
+    <screenName name="in.wadersgroup.companion.SettingsActivity">Settings</screenName>
+    <screenName name="in.wadersgroup.companion.SignInToggleActivity">SignIn/Register</screenName>
+
+</resources>

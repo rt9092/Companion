@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/register_toolbar"
+        layout="@layout/register_toolbar" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autocomplete_places_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/edit_bg_selector"
+        android:gravity="center"
+        android:hint="Source"
+        android:textColor="@android:color/black" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autocomplete_places_destination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/edit_bg_selector"
+        android:gravity="center"
+        android:hint="Destination"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/bSafeRoute"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/pressed_next"
+        android:text="Check if your Route is Safe?"
+        android:textColor="@android:color/white" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvRecent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RECENT DESTINATIONS"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="16dp"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/tvRecent1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIT Sikkim"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:id="@+id/tvRecent2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIT Sikkim"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:id="@+id/tvRecent3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIT Sikkim"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:id="@+id/tvRecent4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIT Sikkim"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/powered_by_google_light" />
+
+</LinearLayout>

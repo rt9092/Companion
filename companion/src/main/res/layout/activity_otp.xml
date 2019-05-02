@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/dashboard_toolbar"
+        layout="@layout/dashboard_toolbar" />
+
+    <EditText
+        android:id="@+id/etOTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edit_bg_selector"
+        android:gravity="center"
+        android:hint="Please enter OTP"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bVerifyOTP"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/pressed_next"
+        android:text="Next"
+        android:textColor="@android:color/white" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvResendOTP"
+        android:text="Resend OTP?"
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:textColor="@color/blue"/>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_margin="16dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvGettingOTP"
+        android:textSize="18sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Getting your OTP"
+        android:layout_gravity="center"/>
+    <EditText
+        android:id="@+id/etEnterMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/edit_bg_selector"
+        android:gravity="center"
+        android:hint="Please enter Mobile Number"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bChangeMobile"
+        android:layout_margin="16dp"
+        android:background="@drawable/pressed_next"
+        android:text="CHANGE MOBILE NUMBER"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

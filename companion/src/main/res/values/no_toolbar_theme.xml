@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="NoToolbar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="drawerArrowStyle">@style/WhiteDrawerIconStyle</item>
+        <item name="colorPrimary">@color/toolbar</item>
+        <item name="colorPrimaryDark">@color/statusbar</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+
+
+</resources>

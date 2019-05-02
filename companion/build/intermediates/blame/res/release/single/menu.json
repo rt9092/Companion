@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/menu/dashboard_menu.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/menu/dashboard_menu.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/menu/dashboard_menu_out_sikkim.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/menu/dashboard_menu_out_sikkim.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/menu/drawer_view.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/menu/drawer_view.xml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/menu/login.xml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/menu/login.xml"
+    }
+]

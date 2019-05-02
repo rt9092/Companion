@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-8.4.0_7d92172a16600714de7df7141e1169dfa6136fc3.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-8.4.0_3739175ffa220ca674b14a6b0525795d7c428bb7.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-8.4.0_7ebd6f84c5856fd038d8caebfa31625c3d5e1c7a.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4d3de1e946207667e76261421de0218f132960e0">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.maps.android-android-maps-utils-0.4.3_d1a9368c7f96e9d084df366fa06a20c17d636d60.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-8.4.0_6668321d496b039eea8c80433e3e4914c28a0817.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-auth-8.4.0_9c2c2008f981ef0fa18a38ae379c9b06333cc289.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-8.4.0_08aa860a4f5b8c4af43753cf656ae1cbb13d28a8.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-measurement-8.4.0_eb52ca6b7afcb0160c8f8dcc0f5ec8de3c520b6f.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-8.4.0_0853b876e463f741db67cdc20e06e0f0d18389b1.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-8.4.0_9c6db820aabdda79d4eacd58ecd8f99e0887c2d3.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.r0adkll/slidableactivity/2.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cb19a000e09e99c048c74508be67e8129092760e">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.r0adkll-slidableactivity-2.0.5_1901152fbb8256069b8795f46321f405f5969330.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/okhttp-3.2.0_ac37772a9e79b5042eaf29fa475045be4ec16c47.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/okio-1.6.0_dfe06ba478b326aaaf914fb5d16affdb185cab33.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/picasso-2.5.2_f6561cfa3d83e38eb3549631b8d0c8ffa1aa308b.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-8.4.0_763b5f099290299b70939ef7ed24083f5a409228.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.4.0_a7de7f403dbc30fc06a77054f0a26a17ab7bbecd.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ebc00058bde4597b48ab5c3358a7676e942902f2">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.github.amlcurran.showcaseview-library-5.4.1_9f663ee4b4d32b384414fd1f22504e853c17a82e.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-8.4.0_8f753169226e250a1fef06936ea9273bba86852a.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_d4962f91542c7463b8eb623b767f4e9aaaf71842.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-8.4.0_c4e89255d4470e17961599945cddeb11d62f8112.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-22.0.0_d69d9f48703680dc7bdf7c506553bbf330a2dd94.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-8.4.0_8ffa76351ad4abfc27928057f36c6cbe9a5d9fc5.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/support-annotations-23.1.1_892964289d2bf51da369882621e7dff5fdac91d1.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.4.0_ebe4e07b6ec4ee41cf73ec5a3d4f31dc65d323c1.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-8.4.0_2d111ce8d3787cf440d540209a0bba84f7bda0b4.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_9e3f1a0cd1038202cc2f4df57aae182c1a3b2b5b.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-22.0.0_ad07a1ea36514ad188a051c23cee9b095e2d632a.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.4.0_72254577f359bbc95af6b9e6514244beb5f83e81.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-8.4.0_6cf873b7e92fec7d36e35cc9473014d86b1a0e6d.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.android.support-design-22.2.1_e5833c463fbee529bc077d84d310cfcf99365da5.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-8.4.0_5fdde9e129db6ee0588a1e7d20ad81268b0a83c5.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_750626fd3399a807436456d461d3dced24987945.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/internal_impl-23.1.1_5151b6301a4233d250f817c2067ad0edfef30b24.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.0_163e1833b7189199a9ef1d3ede8132f7e394fef3.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-8.4.0_7e86f65c62b02e34f774140694aeb758935389d4.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-23.0.0_d2a22711379c7129734fa6ea59033d0f07314703.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/internal_impl-23.0.0_d81b51c75c5ab7b31f468d36e562bfd499e5feed.jar" />
+    </item>
+    <item
+        jar="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.4.0_1312965a9f120aa500aff9816814ea346ed5c1fc.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/register_toolbar"
+            layout="@layout/register_toolbar" />
+
+        <ImageView
+            android:id="@+id/ivRewardsScreen"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="64dp"
+            android:src="@drawable/ic_rewards_screen" />
+
+        <TextView
+            android:id="@+id/tvShareYourCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:text="SHARE YOUR INVITE CODE"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/tvShareCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="32dp"
+            android:text="kWsdG"
+            android:textColor="@color/accent"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/tvShareBaby"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Share your invite code with friends and family, or give us roadblock updates and earn reward points which you can later redeem for exciting prizes."
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/bUpdateRoadblocks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/pressed_next"
+            android:text="UPDATE ROADBLOCKS"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/bShareFriends"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="@drawable/pressed_next"
+            android:text="SHARE WITH FRIENDS"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</ScrollView>

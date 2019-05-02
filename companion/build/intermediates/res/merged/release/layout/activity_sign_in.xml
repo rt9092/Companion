@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dashboard_backdrop"
+        android:orientation="vertical">
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:layout_marginEnd="70dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="76dp"
+            android:layout_marginStart="76dp"
+            android:layout_marginTop="96dp"/>
+
+
+
+    </LinearLayout>
+    <in.wadersgroup.companion.CirclePageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:layout_gravity="center"
+        android:padding="10dip" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCues"
+        android:textSize="18sp"
+        android:text="Romil Tiwari"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"/>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:layout_marginTop="16dp"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/bSignIn"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="32dp"
+                android:layout_marginEnd="4dp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginStart="32dp"
+                android:background="@drawable/pressed_next"
+                android:text="@string/sign_in"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bSignUp"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="32dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginStart="4dp"
+                android:background="@drawable/pressed_next"
+                android:text="@string/sign_up"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tvSuper"
+        android:text="Made with in India"
+        android:layout_marginBottom="2dp"
+        android:gravity="center|bottom"/>
+
+</LinearLayout>

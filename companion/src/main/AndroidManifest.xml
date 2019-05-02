@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE Manifest>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.wadersgroup.companion"
+    android:versionCode="5"
+    android:versionName="1.0.4">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="in.wadersgroup.sosAlert.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <permission
+        android:name="in.wadersgroup.companion.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="AnalyticsApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/companion_logo_purple"
+        android:label="@string/app_name"
+        android:theme="@style/NoToolbar">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAlH5nDfQ50KzpUBpLO7wIlBof9LkBbMfM" />
+
+        <activity
+            android:name="in.wadersgroup.companion.SignInToggleActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name="in.wadersgroup.companion.CityBasedActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo">
+
+
+        </activity>
+        <activity
+            android:name="in.wadersgroup.companion.RegisterActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="in.wadersgroup.companion.YatraSpecialActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="in.wadersgroup.companion.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="in.wadersgroup.companion.DashboardActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!--<meta-data
+                android:name="android.app.default_searchable"
+                android:value=".PlacesActivity" />-->
+        </activity>
+        <activity
+            android:name="in.wadersgroup.companion.RecentBlocksActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.ConfirmationActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="in.wadersgroup.companion.JourneyActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="in.wadersgroup.companion.DataUploadActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.RouteMapper"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.ReferralCodeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.AnonymousUpdatesActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.SettingsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/PreferenceScreen" />
+        <activity
+            android:name="in.wadersgroup.companion.ProfileActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.AboutUsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.SafeRoadActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.RewardsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.RoadblockRemovalActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.OTPActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.PlaceDetailsBigActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemoTourist" />
+        <activity
+            android:name="in.wadersgroup.companion.RedeemActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.ReportedBlocksActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.PromotionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.MapNotificationActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo" />
+        <activity
+            android:name="in.wadersgroup.companion.PlacesActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DesignDemo">
+            <!--<intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />-->
+        </activity>
+        <activity
+            android:name="in.wadersgroup.companion.SearchTagsActivity"
+            android:label="Quick Links"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="in.wadersgroup.companion.FilterDialogActivity"
+            android:label="Filters"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth" />
+        <activity
+            android:name="in.wadersgroup.companion.PlaceDetailsActivity"
+            android:label="Place Details"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth" />
+        <activity
+            android:name="in.wadersgroup.companion.RoadblockCauseDialogActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog.MinWidth" />
+
+        <service
+            android:name="in.wadersgroup.companion.FetchAddressIntentService"
+            android:exported="false" />
+
+
+        <!-- [START gcm_receiver] -->
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="in.wadersgroup.sosAlert" />
+            </intent-filter>
+        </receiver>
+        <!-- [END gcm_receiver] -->
+
+        <service
+            android:name="in.wadersgroup.companion.MyGcmListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="in.wadersgroup.companion.MyInstanceIDListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name="in.wadersgroup.companion.RegistrationIntentService"
+            android:exported="false" />
+
+        <service android:name="in.wadersgroup.companion.GCMNotificationIntentService" />
+        <service android:name="in.wadersgroup.companion.AnonymousLocationService" />
+        <service android:name="in.wadersgroup.companion.PassiveLocationUpdateService" />
+        <service android:name="in.wadersgroup.companion.AlarmService" />
+        <service android:name="in.wadersgroup.companion.RoadblockRemovalService" />
+        <service android:name="in.wadersgroup.companion.NotificationService" />
+
+        <receiver android:name="in.wadersgroup.companion.AlarmReceiver">
+
+        </receiver>
+        <receiver android:name="in.wadersgroup.companion.SmsReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="in.wadersgroup.companion.NotificationReceiver" />
+
+        <receiver android:name="in.wadersgroup.companion.UpdateReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+
+                <data
+                    android:path="in.wadersgroup.sosAlert"
+                    android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <!--
+          Optionally, register AnalyticsReceiver and AnalyticsService to support background
+          dispatching on non-Google Play devices
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!--
+             Optionally, register CampaignTrackingReceiver and CampaignTrackingService to enable
+             installation campaign reporting
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
+
+    </application>
+
+</manifest>

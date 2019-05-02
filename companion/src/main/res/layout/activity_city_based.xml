@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/register_toolbar"
+        layout="@layout/register_toolbar" />
+
+    <ListView
+        android:id="@+id/listTouristPlaces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="24sp"
+        android:padding="16dp"
+        android:scrollbars="none" />
+
+
+    <ImageView
+        android:id="@+id/ivNothing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_nothing" />
+
+    <TextView
+        android:id="@+id/tvError"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:text="hdfhavfdjgjbdgjqdJGJKDGJdhJKGDJGjDJDHg"
+        android:textSize="16sp" />
+
+</LinearLayout>

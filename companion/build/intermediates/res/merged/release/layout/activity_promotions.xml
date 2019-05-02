@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/register_toolbar"
+        layout="@layout/register_toolbar" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_for_reward_screen" />
+
+    <TextView
+        android:id="@+id/tvPromoCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:padding="16dp"
+        android:text="@string/redeem_string" />
+
+    <Button
+        android:id="@+id/bRewardsScreen"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="16dp"
+        android:background="@drawable/pressed_next"
+        android:text="Collect Points"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/bApplyPromo"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="16dp"
+        android:background="@drawable/pressed_next"
+        android:text="Redeem Points"
+        android:textColor="@color/white" />
+
+</LinearLayout>

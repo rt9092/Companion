@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/cLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/dasboard_bg_land"
+        android:orientation="vertical">
+
+        <android.support.v4.widget.DrawerLayout
+            android:id="@+id/drawer_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <include
+                    android:id="@+id/register_toolbar"
+                    layout="@layout/register_toolbar" />
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/llMainLayout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <!--<android.support.v4.view.ViewPager
+                            android:id="@+id/pager"
+                            android:layout_width="match_parent"
+                            android:layout_height="230dp"></android.support.v4.view.ViewPager>
+
+                        <in.wadersgroup.sosAlert.CirclePageIndicator
+                            android:id="@+id/indicator"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="10dip" />-->
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cardRoute"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/card_margin">
+
+                            <LinearLayout
+                                android:id="@+id/llSafeRoute"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:id="@+id/ivSafeRoute"
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:layout_marginLeft="8dp"
+                                    android:layout_marginTop="8dp"
+                                    android:src="@drawable/card_safe_route_image_new" />
+
+                                <TextView
+                                    android:id="@+id/tvHeaderDestn"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginLeft="32dp"
+                                    android:text="Check your travel route?"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@android:color/black" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cardContact"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/card_margin">
+
+                            <LinearLayout
+                                android:id="@+id/llReportRoadblock"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:id="@+id/ivReportRoadblock"
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:layout_marginLeft="8dp"
+                                    android:layout_marginTop="8dp"
+                                    android:src="@drawable/card_report_roadblock_image_new" />
+
+                                <TextView
+                                    android:id="@+id/tvContact"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginLeft="32dp"
+                                    android:text="Report a Roadblock"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@android:color/black" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cardDangerZones"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/card_margin">
+
+                            <LinearLayout
+                                android:id="@+id/llLiveRoadblock"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:id="@+id/ivLiveRoadblock"
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:layout_marginBottom="8dp"
+                                    android:layout_marginLeft="8dp"
+                                    android:layout_marginTop="8dp"
+                                    android:src="@drawable/card_roadblock_live_image_new" />
+
+                                <TextView
+                                    android:id="@+id/tvStateZones"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginLeft="32dp"
+                                    android:text="Explore Places"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@android:color/black" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+
+                        <Button
+                            android:id="@+id/bGoLive"
+                            android:layout_width="wrap_content"
+                            android:layout_height="32dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="16dp"
+                            android:background="@drawable/pressed_next"
+                            android:text="Go Live!"
+                            android:textColor="@color/white" />
+
+                        <Button
+                            android:id="@+id/bKailashMansarovar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="32dp"
+                            android:layout_gravity="center"
+                            android:layout_marginBottom="16dp"
+                            android:layout_marginTop="16dp"
+                            android:background="@drawable/pressed_next"
+                            android:padding="8dp"
+                            android:text="Kailash Mansarovar"
+                            android:textColor="@color/white" />
+
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+
+            <android.support.design.widget.NavigationView
+                android:id="@+id/nav_view"
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="start"
+                android:background="@color/toolbar"
+                android:fitsSystemWindows="true"
+                app:headerLayout="@layout/nav_header"
+                app:itemIconTint="@color/drawer_icon_color"
+                app:itemTextColor="@color/drawer_color"
+                app:menu="@menu/drawer_view"
+                app:theme="@style/Base.Drawer" />
+        </android.support.v4.widget.DrawerLayout>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabAnonymousUpdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            android:clickable="true"
+            android:src="@drawable/ic_on_road_alerts"
+            app:backgroundTint="@color/toolbar"
+            app:layout_anchor="@id/cLayout"
+            app:layout_anchorGravity="bottom|right|end" />
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/llDashboardMap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabFilters"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:clickable="true"
+            android:src="@drawable/ic_filter"
+            app:backgroundTint="@color/toolbar"
+            app:layout_anchor="@id/llDashboardMap"
+            app:layout_anchorGravity="bottom|right|end" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:clickable="true"
+            android:src="@drawable/ic_keyboard_backspace_white_36dp" />
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+
+</FrameLayout>

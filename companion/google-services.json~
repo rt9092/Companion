@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "companion-dd184",
+    "project_number": "574172570168",
+    "name": "Companion"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574172570168:android:770737a8560f2e63",
+        "client_id": "android:in.wadersgroup.companionAndroid",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "in.wadersgroup.companionAndroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574172570168-9u9jndq07j9c4lbe9klh98q5v9u5g409.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wadersgroup.companionAndroid",
+            "certificate_hash": "F12722B78DA25F654E2E707DD1F72D1EEB940D36"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

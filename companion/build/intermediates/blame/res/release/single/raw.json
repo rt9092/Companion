@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/unknwown_folder.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/unknwown_folder.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/multigeometry_placemarks.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/default_balloon.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/default_balloon.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/inline_style.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/inline_style.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/poly_style_boolean_alpha.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/nested_multigeometry.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/nested_multigeometry.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/cdata.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/cdata.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/roadblock_notification_sound.mp3",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/src/main/res/raw/roadblock_notification_sound.mp3"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/gtm_analytics",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/basic_placemark.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/basic_placemark.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/ground_overlay.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/ground_overlay.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/basic_folder.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/basic_folder.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/nested_folders.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/nested_folders.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/extended_data.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/extended_data.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/document_nest.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/document_nest.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/ballon_gx_prefix.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/ground_overlay_color.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/ground_overlay_color.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/visibility_ground_overlay.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/multiple_placemarks.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/multiple_placemarks.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/poly_style_boolean_numeric.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/unsupported.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/unsupported.kml"
+    },
+    {
+        "merged": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/res/merged/release/raw/draw_order_ground_overlay.kml",
+        "source": "/home/romil_wadersgroup/StudioProjects/SOSAlert1/companion/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/raw/draw_order_ground_overlay.kml"
+    }
+]
